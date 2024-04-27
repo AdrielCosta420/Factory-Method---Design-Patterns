@@ -1,0 +1,6 @@
+C:\Users\Adriel\source\repos\APSFactoryMethod\APSFactoryMethod\bin\Release\APSFactoryMethod.exe.config
+C:\Users\Adriel\source\repos\APSFactoryMethod\APSFactoryMethod\bin\Release\APSFactoryMethod.exe
+C:\Users\Adriel\source\repos\APSFactoryMethod\APSFactoryMethod\bin\Release\APSFactoryMethod.pdb
+C:\Users\Adriel\source\repos\APSFactoryMethod\APSFactoryMethod\obj\Release\APSFactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\Adriel\source\repos\APSFactoryMethod\APSFactoryMethod\obj\Release\APSFactoryMethod.exe
+C:\Users\Adriel\source\repos\APSFactoryMethod\APSFactoryMethod\obj\Release\APSFactoryMethod.pdb
