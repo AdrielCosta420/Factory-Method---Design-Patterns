@@ -15,7 +15,7 @@ namespace APSFactoryMethod
 
             fabrica = new FabricaCamiseta();
             Roupas camiseta = fabrica.CriarRoupa();
-            camiseta.Tipo = "Polo";
+            camiseta.Tipo = "Lacoste";
             camiseta.Tamanho = "M";
             camiseta.Cor = "Azul";
             camiseta.Preco = 49.99m;
