@@ -29,13 +29,7 @@ namespace APSFactoryMethod
             calca.Preco = 79.90m;
             calca.ExibirDetalhes();
 
-            fabrica = new FabricaJaqueta();
-            Roupas jaqueta = fabrica.CriarRoupa();
-            jaqueta.Tipo = "Couro";
-            jaqueta.Tamanho = "G";
-            jaqueta.Cor = "Marrom";
-            jaqueta.Preco = 199.99m;
-            jaqueta.ExibirDetalhes();
+  
         }
     }
 }
